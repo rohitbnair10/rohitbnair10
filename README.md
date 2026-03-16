@@ -75,6 +75,6 @@ Dual Degree — B.Tech + M.Tech, Mining Engineering · Minor: Economics · CGPA:
 
 *Building at the intersection of AI and great user experiences — open to PM roles in the UAE and the region.*
 
-[![Get in touch](https://img.shields.io/badge/Open_to_opportunities-Let's_talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](mailto:rohitbnair10@gmail.com)
+[![Get in touch](mailto:rohitbnair10@gmail.com)
 
 </div>
